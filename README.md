@@ -1,10 +1,1 @@
-# Manufacturing_Excel_Dashmoard
-This manufacturing analytics project was designed to uncover operational inefficiencies and highlight opportunities for improvement through data‑driven dashboards. Using Excel as the primary tool, I created a structured visualization framework that transformed raw production data into actionable insights.
-✨ Key takeaways from this project:
-
- 📊 Visualized defects by machine & product to spot improvement areas
- ⚡ Analyzed production efficiency across shifts and suppliers
- ⏱️ Highlighted delivery delays & downtime to uncover bottlenecks
- 🛠️ Strengthened my storytelling skills—making dashboards not just informative, but impactful.
-
-Feeling proud of this milestone and super motivated to keep pushing my data analytics journey forward! 💡
+This project focused on analyzing manufacturing performance through interactive dashboards. Defects were visualized by machine and product to identify improvement areas, while production efficiency was evaluated across shifts and suppliers. Delivery delays and downtime were highlighted to uncover bottlenecks in operations. Beyond the analytics, the project strengthened storytelling skills—transforming dashboards into impactful tools that communicate insights clearly and drive action.
